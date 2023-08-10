@@ -1,6 +1,5 @@
 import React from 'react'
-
-import "../NewnavBar/newnav.css";
+import "./Newnav.css"
 
 function Newnav() {
   return (
